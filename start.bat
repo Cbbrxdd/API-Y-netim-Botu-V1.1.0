@@ -1,6 +1,6 @@
 @echo off
 set "dosyaAdi=node_modules"
-title Dildo Yonetim Botu - Made By ProxyDev
+title Yonetim Botu - Made By CbbrDigital
 :a
 if exist "%dosyaAdi%" (
     color b
